@@ -22,7 +22,7 @@ export const projects = [
   {
     title: 'Water My Plants Back-end',
     description:
-      'This is an API of my design. I utilized Express and designed database schemas supported by knex migrations. Additionally, documentation is provided for API interactions. This project demonstrates Relational database management and my experience with Sql and heroku. Please feel free to test the API responses and analyze the code. ',
+      'In utilizing React, Express, SQL and database schemas crafted using knex, this project demonstrates Relational database management skills and is hosted via heroku. Please feel free to test the API responses and analyze the code.',
     image: '/images/3.jpg',
     tags: ['React', 'Express', 'Sql', 'Knex', 'Heroku', 'Node'],
     source: 'https://github.com/credleo95/water-my-plants-backend',
