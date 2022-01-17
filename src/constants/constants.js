@@ -36,7 +36,7 @@ export const TimeLineData = [
     year: 2019,
     text: 'Graduated UNC School of The Arts with a Bachelor of Music Degree',
   },
-  { year: 2020, text: 'Started my journey with Lambda School' },
+  { year: 2020, text: 'Started my journey with Bloom Institute of Technology' },
   {
     year: 2021,
     text: 'Worked Cross functionally as a front-end and back-end developer during BloomTech Sprints',
