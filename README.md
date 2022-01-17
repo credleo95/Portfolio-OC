@@ -1,3 +1,5 @@
-## Personal Portfolio
+# Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+**Projects mentioned are in my pinned posts**
+
+## For further contact, please email: <credleo@outlook.com>
